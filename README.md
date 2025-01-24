@@ -12,5 +12,3 @@ ER DİYAGRAMI: ![Ekran görüntüsü 2025-01-24 144544](https://github.com/user-
 
 
 USE-CASE DİYAGRAMI: ![Ekran görüntüsü 2025-01-24 151536](https://github.com/user-attachments/assets/81377ca0-f5df-456b-86db-87ddc7abde54)
-
-
