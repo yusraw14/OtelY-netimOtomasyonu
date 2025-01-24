@@ -4,6 +4,7 @@
 
 
 
+
 CLASS DİYAGRAMI: ![Ekran görüntüsü 2025-01-24 142502](https://github.com/user-attachments/assets/f848a5fa-44a7-4785-ae3c-836fd4585112)
 
 
